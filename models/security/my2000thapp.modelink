@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modelink threeWay="true" forceExeedL="true" forceExeedM="true" forceExeedR="true">
+  <model path="/dev.my2000thapp.models/ui/my2000thapp.reactbotui" position="LEFT" />
+  <model path="/dev.my2000thapp.models/entity/my2000thapp.csharpbotentity" position="MIDDLE" />
+  <model path="/dev.my2000thapp.models/security/my2000thapp.commonsecurity" position="RIGHT" />
+</modelink>
